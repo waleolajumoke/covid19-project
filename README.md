@@ -1,4 +1,5 @@
 # COvid 19 Project
-1. I cleaned the data
-2. I analyze the data
-3. I visualize the data
+1. I cleaned the *data*
+   
+3. I analyze the **data**
+4. I visualize the data
